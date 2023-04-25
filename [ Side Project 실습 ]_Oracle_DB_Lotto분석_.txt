@@ -1,0 +1,51 @@
+[ Side Project 실습 ]_Oracle_DB_Lotto분석_자막_▲원본_ 
+
+1. Lotto 공식 Site의 관련 Excel File 
+  아래 Site에 접속해서 관련 통계 자료를 다운로드 합니다.
+
+https://dhlottery.co.kr/gameResult.do?method=byWin
+
+다운로드 시 아래와 같이 파일명 변경 !
+
+excel.xls →
+
+SideProject_Lotto_Analysis_excel.xls
+
+
+[ Team 요구사항 ]
+
+-- 1064회 까지 입력 DATA 여러분들이 1064회 - 827 = 237 회차의 정보를 입력합니다...
+
+어떻게 하면 insert into 명령과 회차정보 파일을 이용해서,
+
+excel 을 이용해서 자동으로 명령을 만들 수 있을까 ?
+
+5 명씩 나눠서 완전 노.가.다.로 차근차근 성실-성실하게 입력 ~
+
+두고 두고 사용할 수 있게 excel 을 이용해서 만드는 방법을 문서화해서 공유하도록 합니다.
+
+완성 후 작성 방법을 2 Team의 팀장님들이 문서화 해서 선생님에게 email 로 보내고, 
+
+gitHub 에 요약한 내용을 commit 해서 올려 두시면 나중에 도움이 될 겁니다...
+
+시작합니다 !
+
+
+
+
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+
+---  gitHub 참조 주소 / ID 
+
+동영상 포함 
+https://github.com/DenverCoder1 ( 반드시 참조! )
+
+https://github.com/MosFazli
+https://github.com/BEPb
+
+[ 한국어 ]
+https://github.com/chemistryx/hyde
+
+[ 타 기관의 학생들이 다음 처럼 하고 있답니다... ]
+
+https://github.com/helen1031/EarlyBirds_in_Jungle
